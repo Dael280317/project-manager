@@ -1,0 +1,11 @@
+.app {
+  min-height: 100vh;
+  padding: 20px;
+  background: #0f0f0f;
+}
+
+@media (max-width: 768px) {
+  .app {
+    padding: 10px;
+  }
+}
